@@ -51,15 +51,6 @@ Para empresas pequeñas y medianas, ofrecemos:
 
 ---
 
-## 📊 Estadísticas (simulación del perfil técnico)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nervasec&show_icons=true&theme=radical&hide_title=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervasec&layout=compact&theme=radical" width="48%">
-</div>
-
----
-
 ## 📞 Contacto
 
 ¿Quieres saber más o colaborar con nosotros?
