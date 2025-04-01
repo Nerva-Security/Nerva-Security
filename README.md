@@ -78,6 +78,6 @@ Para empresas pequeñas y medianas, ofrecemos:
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCUK0V8KjUj6nSU/giphy.gif" width="180">
+  <img src="[https://media.giphy.com/media/3o7aCUK0V8KjUj6nSU/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhpM3dhb281aXo3ZXJrZTZnODMyZzg5dnE5djhhb3Jna3lqbWx1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)" width="180">
 </p>
 
