@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ciberseguridad-Educación%20%7C%20PYMEs-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Ubicación-España-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ubicación-Sevilla-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/Email-infonervasec@gmail.com-red?style=for-the-badge&logo=gmail">
 </p>
 
@@ -53,10 +53,10 @@ Para empresas pequeñas y medianas, ofrecemos:
 
 ## 📊 Estadísticas (simulación del perfil técnico)
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nervasec&show_icons=true&theme=radical&hide_title=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nervasec&layout=compact&theme=radical" width="48%">
-</p>
+</div>
 
 ---
 
@@ -77,7 +77,7 @@ Para empresas pequeñas y medianas, ofrecemos:
 
 ---
 
-<p align="center">
-  <img src="[https://media.giphy.com/media/3o7aCUK0V8KjUj6nSU/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhpM3dhb281aXo3ZXJrZTZnODMyZzg5dnE5djhhb3Jna3lqbWx1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)" width="180">
-</p>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhpM3dhb281aXo3ZXJrZTZnODMyZzg5dnE5djhhb3Jna3lqbWx1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="180">
+</div>
 
